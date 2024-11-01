@@ -1,0 +1,6 @@
+const ADD_USER = "ADD_USER";
+const EDIT_USER = "EDIT_USER";
+const DELETE_USER = "DELETE_USER";
+const ADD_LIKE = "ADD_LIKE";
+
+export { ADD_USER, DELETE_USER, EDIT_USER, ADD_LIKE };
